@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Live Translate</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_zh">中文</string>
+    <string name="lang_ko">한국어</string>
+    <string name="lang_ja">日本語</string>
+    <string name="status_downloading">翻訳モデルをダウンロード中... (初回のみ)</string>
+    <string name="status_error">エラー: %1$s</string>
+    <string name="error_camera_permission">カメラの権限が必要です</string>
+</resources>
